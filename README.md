@@ -13,7 +13,7 @@
 <p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。网上话会多一点，现实里偶尔会突然发一下神经。</p>
 <h3>Cloud</h3>
 <p>
-  <img src="https://images.icon-icons.com/2699/PNG/512/cloudflare_logo_icon_170372.png" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/cloudflare_logo_icon_170372.png" width=200 />
 </p>
 <div align="center">
   <sub>© 2026 He-TW | 淡看云烟随风去,笑拥晨光自怡然。</sub>
