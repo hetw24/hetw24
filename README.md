@@ -7,15 +7,6 @@
   </p>
 </div>
 
-<iframe
-  title="User Widget"
-  width="288"
-  height="80"
-  frameborder="0"
-  sandbox="allow-scripts"
-  src="https://widget.ennead.cc/user?id=983116816958255155&theme=dark&avatar=true&banner=false&nameplate=true&nameplate_animated=true&clan=true&decoration=true&global_name=true&size=128&ext=auto"
-></iframe>
-
 <img src="assets/gura1.webp" align="right" width="40%" alt="character art" />
 <h3>About Me</h3>
 <p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。</p>
