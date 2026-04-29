@@ -9,3 +9,5 @@
 <div align="center">
   <sub>© 2026 He-TW | 淡看云烟随风去,笑拥晨光自怡然。</sub>
 </div>
+https://g.blfrp.cn/https://github.com/hetw24/imagebed/blob/main/Avatar/original.jpg
+<h3>About Me</h3>
