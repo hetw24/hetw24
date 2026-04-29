@@ -8,6 +8,13 @@
 </div>
 
 <img src="assets/gura1.webp" align="right" width="35%" alt="character art" />
+
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iwi7f4iv2ef2dd5lkavn2rgp6q&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+
 <h3>About Me</h3>
 <p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。</p>
 
@@ -17,11 +24,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iwi7f4iv2ef2dd5lkavn2rgp6q&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
 
 ![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/2-2/389976484.png)
 
