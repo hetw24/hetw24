@@ -7,7 +7,7 @@
   </p>
 </div>
 <div align="left">
-    <img src=https://g.blfrp.cn/https://github.com/hetw24/imagebed/blob/main/Avatar/original.jpg width=200/>
+    <img src=imagebed/blob/main/Avatar/original.jpg width=200/>
 <h3>About Me</h3>
 <div align="center">
   <sub>© 2026 He-TW | 淡看云烟随风去,笑拥晨光自怡然。</sub>
