@@ -6,4 +6,3 @@
     <img src="https://img.shields.io/badge/TaiWan-EEF7F1?style=flat&logo=pinboard&logoColor=7AA88A&labelColor=EEF7F1&color=EEF7F1" alt="China badge" />
   </p>
 </div>
-Saneko badge INTJ badge China badge
