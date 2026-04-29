@@ -6,3 +6,6 @@
     <img src="https://img.shields.io/badge/TaiWan-EEF7F1?style=flat&logo=pinboard&logoColor=7AA88A&labelColor=EEF7F1&color=EEF7F1" alt="China badge" />
   </p>
 </div>
+<div align="center">
+  <sub>© 2026 He-TW | 淡看云烟随风去,笑拥晨光自怡然。</sub>
+</div>
