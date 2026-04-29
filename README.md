@@ -17,10 +17,11 @@
   </a>
 </p>
 
-<h3>Stats</h3>
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iwi7f4iv2ef2dd5lkavn2rgp6q">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iwi7f4iv2ef2dd5lkavn2rgp6q" width="70%" alt="Data Card for Spotify">
-</a>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iwi7f4iv2ef2dd5lkavn2rgp6q&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 ![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/2-2/389976484.png)
 
