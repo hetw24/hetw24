@@ -17,6 +17,8 @@
   <img src="https://api.iconify.design/devicon:cloudflare.svg" width=80 />
   <img src="https://api.iconify.design/devicon:vercel.svg" width=65 />
 </p>
+
+![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/rand/389976484.png)
     
 <br clear="right" />
 
