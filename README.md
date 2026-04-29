@@ -15,7 +15,7 @@
 <h3>Cloud</h3>
 <p>
   <img src="https://api.iconify.design/devicon:cloudflare.svg" width=80 />
-  <img src="https://api.iconify.design/devicon:vercel.svg" width=70 />
+  <img src="https://api.iconify.design/devicon:vercel.svg" width=65 />
 </p>
     
 <br clear="right" />
