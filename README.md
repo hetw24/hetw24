@@ -14,7 +14,7 @@
    网上话会多一点，现实里偶尔会突然发一下神经。</p>
 <h3>Stats</h3>
 
-![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/rand/389976484.png)
+![崩坏：星穹铁道](https://hoyocard.qhy04.com/04/detail/rand/389976484.png)width="33%"
 
 <br clear="right" />
 
