@@ -7,7 +7,7 @@
   </p>
 </div>
 
-<img src="assets/gura1.webp" align="right" width="45%" alt="character art" />
+<img src="assets/gura1.webp" align="right" width="40%" alt="character art" />
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
