@@ -12,14 +12,13 @@
 <h3>About Me</h3>
 <p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。
    网上话会多一点，现实里偶尔会突然发一下神经。</p>
-<h3>Cloud</h3>
+<h3>Stats</h3>
+![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/rand/389976484.png)
 <p>
   <img src="https://api.iconify.design/devicon:cloudflare.svg" width=80 />
   <img src="https://api.iconify.design/devicon:vercel.svg" width=65 />
 </p>
 
-![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/rand/389976484.png)
-    
 <br clear="right" />
 
 <div align="center">
