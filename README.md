@@ -19,7 +19,7 @@
 
 <h3>Stats</h3>
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iwi7f4iv2ef2dd5lkavn2rgp6q">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iwi7f4iv2ef2dd5lkavn2rgp6q" width="30%" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iwi7f4iv2ef2dd5lkavn2rgp6q" width="70%" alt="Data Card for Spotify">
 </a>
 
 ![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/2-2/389976484.png)
