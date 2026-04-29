@@ -19,6 +19,13 @@
 <img src="assets/gura1.webp" align="right" width="40%" alt="character art" />
 <h3>About Me</h3>
 <p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,cloudflare,vercel,gcp" />
+  </a>
+</p>
+
 <h3>Stats</h3>
 
 ![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/2-2/389976484.png)
