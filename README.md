@@ -8,6 +8,7 @@
 </div>
 <div align="left">
     <img src=assets/original.jpg width=200/>
+<img src="assets/gura1.webp" align="right" width="33%" alt="character art" />
 <h3>About Me</h3>
 <div align="center">
   <sub>© 2026 He-TW | 淡看云烟随风去,笑拥晨光自怡然。</sub>
