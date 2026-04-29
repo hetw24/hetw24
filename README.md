@@ -10,10 +10,11 @@
     <img src=assets/original.jpg width=200/>
 <img src="assets/gura1.webp" align="right" width="33%" alt="character art" />
 <h3>About Me</h3>
-<p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。网上话会多一点，现实里偶尔会突然发一下神经。</p>
+<p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。
+   网上话会多一点，现实里偶尔会突然发一下神经。</p>
 <h3>Cloud</h3>
 <p>
-  <img src="https://images.icon-icons.com/2699/PNG/512/cloudflare_logo_icon_170372.png" width=50 />
+  <img src="https://api.iconify.design/devicon:cloudflare.svg" width=50 />
   <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico" width=50 />
 </p>
     
