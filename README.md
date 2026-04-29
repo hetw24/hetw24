@@ -3,7 +3,7 @@
   </a>
   <p>
     <img src="https://img.shields.io/badge/He TW-EAF6EE?style=flat&logo=github&logoColor=6FA684&labelColor=EAF6EE&color=EAF6EE" alt="Saneko badge" />
-    <img src="https://img.shields.io/badge/TaiWan-EEF7F1?style=flat&logo=pinboard&logoColor=7AA88A&labelColor=EEF7F1&color=EEF7F1" alt="China badge" />
+    <img src="https://img.shields.io/badge/Taiwan-EEF7F1?style=flat&logo=pinboard&logoColor=7AA88A&labelColor=EEF7F1&color=EEF7F1" alt="China badge" />
   </p>
 </div>
 
