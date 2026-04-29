@@ -8,7 +8,7 @@
 </div>
 <div align="left">
     <img src=assets/original.jpg width=200/>
-<img src="assets/gura1.webp" align="right" width="33%" alt="character art" />
+<img src="assets/gura1.webp" align="right" width="60%" alt="character art" />
 <h3>About Me</h3>
 <p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。</p>
 <h3>Stats</h3>
