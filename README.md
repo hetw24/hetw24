@@ -10,8 +10,7 @@
     <img src=assets/original.jpg width=200/>
 <img src="assets/gura1.webp" align="right" width="33%" alt="character art" />
 <h3>About Me</h3>
-<p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。
-   网上话会多一点，现实里偶尔会突然发一下神经。</p>
+<p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。</p>
 <h3>Stats</h3>
 
 ![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/2-2/389976484.png)
