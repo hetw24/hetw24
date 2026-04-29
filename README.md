@@ -13,7 +13,6 @@
 <p>这里是 <strong>He-TW</strong>，一个十足的家里蹲。</p>
 <h3>Stats</h3>
 
-![Discord 状态](https://discord-readme-badge.vercel.app/api?id=983116816958255155)
 ![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/2-2/389976484.png)
 
 <br clear="right" />
