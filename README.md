@@ -27,6 +27,8 @@
 
 ![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/2-2/389976484.png)
 
+![Discord 状态](https://discord-readme-badge.vercel.app/api?id=983116816958255155)
+
 <br clear="right" />
 
 <div align="center">
